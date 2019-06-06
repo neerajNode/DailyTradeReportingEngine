@@ -33,15 +33,21 @@ Entity|Buy/Sell|AgreedFx|Currency|InstructionDate|SettlementDate|Units|Price per
 *** Settlement Report Outgoing ***
 
 Settlement Date: 2019-06-10 | Amount Settled: 13533.7500 USD
+
 Settlement Date: 2018-05-10 | Amount Settled: 5012.500 USD
+
 Settlement Date: 2019-06-09 | Amount Settled: 5012.500 USD
+
 Settlement Date: 2016-01-03 | Amount Settled: 12635.000 USD
 
 *** Settlement Report Incoming ***
 
 Settlement Date: 2019-02-04 | Amount Settled: 16245.000 USD
+
 Settlement Date: 2019-01-03 | Amount Settled: 30504.5000 USD
+
 Settlement Date: 2019-05-02 | Amount Settled: 6015.000 USD
+
 Settlement Date: 2019-06-17 | Amount Settled: 17689.0000 USD
 
 *** Ranking Report Outgoing ***
@@ -49,6 +55,7 @@ Settlement Date: 2019-06-17 | Amount Settled: 17689.0000 USD
 Settlement Date: 2019-06-10
 
 Rank:1 | Entity:foo4 | Amount:8020.000 USD
+
 Rank:2 | Entity:foo5 | Amount:5513.7500 USD
 
 Settlement Date: 2018-05-10
@@ -72,6 +79,7 @@ Rank:1 | Entity:bar4 | Amount:16245.000 USD
 Settlement Date: 2019-01-03
 
 Rank:1 | Entity:bar3 | Amount:17869.5000 USD
+
 Rank:2 | Entity:bar1 | Amount:12635.000 USD
 
 Settlement Date: 2019-05-02
