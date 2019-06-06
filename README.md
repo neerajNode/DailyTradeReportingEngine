@@ -9,8 +9,25 @@
 # Sample Input
 Entity|Buy/Sell|AgreedFx|Currency|InstructionDate|SettlementDate|Units|Price per unit
 
-foo,B,0.50,SGP,01 Jan 2016,02 Jan 2016,200,100.25
-bar,S,0.22,AED,05 Jan 2016,07 Jan 2016,450,150.5
+"foo1","B",0.50,"AED","07 Jun 2019","08 Jun 2019",100,100.25
+
+"bar1","S",0.70,"INR","01 Jan 2019","03 Jan 2019",200,90.25
+
+"foo2","S",0.60,"GBP","01 May 2019","02 May 2019",100,100.25
+
+"bar2","B",0.70,"SAR","01 Jan 2016","02 Jan 2016",200,90.25
+
+"foo3","B",0.50,"GBP","09 May 2018","10 May 2018",100,100.25
+
+"bar3","S",0.99,"INR","01 Jan 2019","03 Jan 2019",200,90.25
+
+"foo4","B",0.80,"GBP","07 Jun 2019","08 Jun 2019",100,100.25
+
+"bar4","S",0.90,"INR","01 Feb 2019","03 Feb 2019",200,90.25
+
+"foo5","B",0.55,"GBP","07 Jun 2019","08 Jun 2019",100,100.25
+
+"bar5","S",0.98,"INR","16 Jun 2019","17 Jun 2019",200,90.25
 
 # Sample Output
 *** Settlement Report Outgoing ***
