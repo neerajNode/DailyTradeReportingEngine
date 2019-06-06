@@ -47,34 +47,42 @@ Settlement Date: 2019-06-17 | Amount Settled: 17689.0000 USD
 *** Ranking Report Outgoing ***
 
 Settlement Date: 2019-06-10
+
 Rank:1 | Entity:foo4 | Amount:8020.000 USD
 Rank:2 | Entity:foo5 | Amount:5513.7500 USD
 
 Settlement Date: 2018-05-10
+
 Rank:1 | Entity:foo3 | Amount:5012.500 USD
 
 Settlement Date: 2019-06-09
+
 Rank:1 | Entity:foo1 | Amount:5012.500 USD
 
 Settlement Date: 2016-01-03
+
 Rank:1 | Entity:bar2 | Amount:12635.000 USD
 
 *** Ranking Report Incoming ***
 
 Settlement Date: 2019-02-04
+
 Rank:1 | Entity:bar4 | Amount:16245.000 USD
 
 Settlement Date: 2019-01-03
+
 Rank:1 | Entity:bar3 | Amount:17869.5000 USD
 Rank:2 | Entity:bar1 | Amount:12635.000 USD
 
 Settlement Date: 2019-05-02
+
 Rank:1 | Entity:foo2 | Amount:6015.000 USD
 
 Settlement Date: 2019-06-17
+
 Rank:1 | Entity:bar5 | Amount:17689.0000 USD
 
-# Gloassary
+# Glossary
 * Instruction: An instruction to buy or sell
 *  Entity: A financial entity whose shares are to be bought or sold
 * Instruction Date: Date on which the instruction was sent to JP Morgan by various clients
